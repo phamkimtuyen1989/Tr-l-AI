@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Viết prompt chuyển ảnh thành video",
+  "description": "Upload an image and this application will use Gemini to generate a detailed prompt for turning the static image into a dynamic, animated video with natural movements. Prompts are provided in both English and Vietnamese.",
+  "requestFramePermissions": []
+}
